@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/314 Arts/MarsFPSKit/Scenes/MainMenu.unity
+    guid: 57951bc520532a94ca97a7fbc6f49e08
+  - enabled: 0
+    path: Assets/314 Arts/MarsFPSKit/Scenes/Test_Map_1.unity
+    guid: 23c19a8aaac50d445a64ed8ae18ef3d9
+  - enabled: 0
+    path: Assets/314 Arts/MarsFPSKit/Scenes/Test_Map_3.unity
+    guid: 28d17f6935bed35488343b1a859856a5
+  - enabled: 0
+    path: Assets/314 Arts/MarsFPSKit/Scenes/Showcase_Map.unity
+    guid: 738b94d1afdf6074c889e8edf557ccae
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/New Menu.unity
+    guid: 29263ffd00610b74e9b87100cdefeeb6
+  - enabled: 1
+    path: Assets/Project Immix/Immix Kit/Scenes/MainMenu.unity
+    guid: 31148610fbc3cf242b154808e7d21656
+  - enabled: 1
+    path: Assets/Project Immix/Immix Kit/Scenes/CaershireCrossing.unity
+    guid: d5673b812d5fa6d4abc53777e9b3fa6b
+  m_configObjects: {}
